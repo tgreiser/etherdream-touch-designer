@@ -8,6 +8,8 @@
 
 You can hook your Ether Dream directly to your computer with a regular ethernet cable. Run the ["sitter" diagnostic tool](http://ether-dream.com/downloads.html) to get the IP address. You will need to enter this IP into the Ether Dream CHOP in TouchDesigner in order to enable laser output.
 
+![Setup Diagram](https://raw.githubusercontent.com/tgreiser/etherdream-touch-designer/master/ether_dream_connections.png)
+
 ## Setup
 
 1. Lasers are dangerous to your vision if used incorrectly. Use safety glasses and common sense. Think about what your projection may be doing and where to safely set up your scanner.
