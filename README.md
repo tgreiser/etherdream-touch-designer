@@ -6,6 +6,8 @@
 
 ## Getting Started
 
+If you want to learn more about the basics, start with our presentation, [#LaserHack 101](https://github.com/tgreiser/etherdream-touch-designer/raw/master/laser_hack_101.pdf).
+
 You can hook your Ether Dream directly to your computer with a regular ethernet cable. Run the ["sitter" diagnostic tool](http://ether-dream.com/downloads.html) to get the IP address. You will need to enter this IP into the Ether Dream CHOP in TouchDesigner in order to enable laser output.
 
 ![Setup Diagram](https://raw.githubusercontent.com/tgreiser/etherdream-touch-designer/master/ether_dream_connections.png)
