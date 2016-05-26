@@ -25,6 +25,7 @@ You can hook your Ether Dream directly to your computer with a regular ethernet 
 [![Laser Kung Fu](http://img.youtube.com/vi/uXsIaUebKx4/0.jpg)](http://www.youtube.com/watch?v=uXsIaUebKx4 "Laser Kung Fu")
 [![Kinect Trace](http://img.youtube.com/vi/CZ1Ek5ifigc/0.jpg)](http://www.youtube.com/watch?v=CZ1Ek5ifigc "Kinect Trace")
 [![Experiments](http://img.youtube.com/vi/2xt8s92Lp-g/0.jpg)](http://www.youtube.com/watch?v=2xt8s92Lp-g "Experiments")
+[![Laser Pong](http://img.youtube.com/vi/c3P6thmMLx0/0.jpg)](https://www.youtube.com/watch?v=c3P6thmMLx0 "Laser Pong")
 
 
 Resources:
