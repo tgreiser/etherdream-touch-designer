@@ -16,11 +16,12 @@ You can hook your Ether Dream directly to your computer with a regular ethernet 
 
 1. Lasers are dangerous to your vision if used incorrectly. Use safety glasses and common sense. Think about what your projection may be doing and where to safely set up your scanner.
 2. Laser scanners all have ratings for the galvos. This will be something like: 
-  Scanner: 30K PPS @4°
+  Scanner: 30K PPS @ 8°
   Scan Angle max.: 40° max
-3. 30kpps means 30,000 Points Per Second. This rating is at a small animation size (4 degrees), if you are using closer to the max angle, your scan rating will be more like half, 15K PPS in this example. Start the project in TouchDesigner with your laser turned off or in safe mode.
-4. In TouchDesigner, set the sample rate on the CHOP network to 80% of the safe scan rate you figured out for your scanner in step 3. Say we are doing a large animation and using the 15,000 PPS number above - 15,000 * .80 = 12,000
-5. Once you have set the sample rate, you can start the laser. If you hear a loud whining noise coming from your galvos you need to reduce the sample rate.
+3. 30kpps means 30,000 Points Per Second. This rating is only a guideline, and complex shapes at close to the recommended scan angle may perform better at a reduced scan rate.
+4. Start the project in TouchDesigner with your laser turned off or in safe mode.
+5. In TouchDesigner, set the sample rate on the CHOP network to 80% of the safe scan rate you figured out for your scanner in step 3. Say we are doing a large animation and using the 15,000 PPS number above - 15,000 * .80 = 12,000
+6. Once you have set the sample rate, you can start the laser. If you hear a loud whining noise coming from your galvos you need to reduce the sample rate.
 
 [![Laser Kung Fu](http://img.youtube.com/vi/uXsIaUebKx4/0.jpg)](http://www.youtube.com/watch?v=uXsIaUebKx4 "Laser Kung Fu")
 [![Kinect Trace](http://img.youtube.com/vi/CZ1Ek5ifigc/0.jpg)](http://www.youtube.com/watch?v=CZ1Ek5ifigc "Kinect Trace")
