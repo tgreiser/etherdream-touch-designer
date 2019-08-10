@@ -20,8 +20,8 @@ You can hook your Ether Dream directly to your computer with a regular ethernet 
   Scan Angle max.: 40° max
 3. 30kpps means 30,000 Points Per Second. This rating is only a guideline, and complex shapes at close to the recommended scan angle may perform better at a reduced scan rate.
 4. Start the project in TouchDesigner with your laser turned off or in safe mode.
-5. In TouchDesigner, set the sample rate on the CHOP network to 80% of the safe scan rate you figured out for your scanner in step 3. Say we are doing a large animation and using the 15,000 PPS number above - 15,000 * .80 = 12,000
-6. Once you have set the sample rate, you can start the laser. If you hear a loud whining noise coming from your galvos you need to reduce the sample rate.
+5. In TouchDesigner, set the sample rate on the CHOP network to at or below the max scan rate. In general you probably want to draw shapes at maybe 50% scale, and only scale it up if you know things work at a smaller size.
+6. Once you have set the sample rate, you can start the laser. If you hear a loud whining noise coming from your galvos you need to reduce the sample rate or scale.
 
 [![Laser Kung Fu](http://img.youtube.com/vi/uXsIaUebKx4/0.jpg)](http://www.youtube.com/watch?v=uXsIaUebKx4 "Laser Kung Fu")
 [![Kinect Trace](http://img.youtube.com/vi/CZ1Ek5ifigc/0.jpg)](http://www.youtube.com/watch?v=CZ1Ek5ifigc "Kinect Trace")
