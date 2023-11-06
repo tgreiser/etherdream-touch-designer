@@ -23,11 +23,8 @@ You can hook your Ether Dream directly to your computer with a regular ethernet 
 5. In TouchDesigner, set the sample rate on the CHOP network to at or below the max scan rate. In general you probably want to draw shapes at maybe 50% scale, and only scale it up if you know things work at a smaller size.
 6. Once you have set the sample rate, you can start the laser. If you hear a loud whining noise coming from your galvos you need to reduce the sample rate or scale.
 
-[![Laser Kung Fu](http://img.youtube.com/vi/uXsIaUebKx4/0.jpg)](http://www.youtube.com/watch?v=uXsIaUebKx4 "Laser Kung Fu")
-[![Kinect Trace](http://img.youtube.com/vi/CZ1Ek5ifigc/0.jpg)](http://www.youtube.com/watch?v=CZ1Ek5ifigc "Kinect Trace")
-[![Experiments](http://img.youtube.com/vi/2xt8s92Lp-g/0.jpg)](http://www.youtube.com/watch?v=2xt8s92Lp-g "Experiments")
 [![Laser Pong](http://img.youtube.com/vi/c3P6thmMLx0/0.jpg)](https://www.youtube.com/watch?v=c3P6thmMLx0 "Laser Pong")
-
+[![Stick Person](http://img.youtube.com/vi/L30rNiF8438/0.jpg)](https://www.youtube.com/shorts/L30rNiF8438 "Stick Person")
 
 Resources:
 * EtherDream example by Derivative - http://derivative.ca/Forum/viewtopic.php?f=20&t=8114&p=30561
